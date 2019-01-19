@@ -1,0 +1,17 @@
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\ContentLoadButton.exe.config
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\ContentLoadButton.exe
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\ContentLoadButton.pdb
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\MainWindow.g.cs
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\App.g.cs
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton_MarkupCompile.cache
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton_MarkupCompile.lref
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\MainWindow.baml
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.g.resources
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.Properties.Resources.resources
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.csproj.GenerateResource.Cache
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.exe
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.pdb
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\MySql.Data.dll
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\Newtonsoft.Json.dll
+c:\users\виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Виктор\documents\visual studio 2017\Projects\ContentLoadButton\ContentLoadButton\obj\Debug\ContentLoadButton.csprojResolveAssemblyReference.cache

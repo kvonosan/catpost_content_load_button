@@ -1,0 +1,20 @@
+﻿<Window x:Class="ContentLoadButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ContentLoadButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu Height="25" VerticalAlignment="Top">
+            <MenuItem Header="Загрузить контент">
+                <MenuItem Header="В вконтакте" Click="MenuItem_Click" ></MenuItem>
+                <MenuItem Header="В фейсбук" Click="MenuItem_Click_1" ></MenuItem>
+                <MenuItem Header="В одноклассники" Click="MenuItem_Click_2" ></MenuItem>
+                <MenuItem Header="В инстаграмм" Click="MenuItem_Click_3" ></MenuItem>
+            </MenuItem>
+        </Menu>
+        <TextBox x:Name="box" Margin="25"></TextBox>
+    </Grid>
+</Window>
